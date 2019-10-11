@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Siri H. Folstad</title>
+    <link>/sirihfolstad/authors/</link>
+      <atom:link href="/sirihfolstad/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Siri Hausland Folstad {2019}</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/sirihfolstad/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/sirihfolstad/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/sirihfolstad/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/sirihfolstad/authors/admin/</guid>
+      <description>&lt;p&gt;Siri H. Folstad recently graduated from the University of Manchester with a Master of Research (MRes) degree in Psychology. Her reseaerch interests include experiences of people livign with bipolar disorder, youth mental health, R statistics and qualitative methodologies.&lt;/p&gt;
+
+&lt;p&gt;As a recent graduate, she is currently working as a mental health community therapist in a psychiatric rehab centre just outside Oslo, with clients who experience symptoms of psychosis, anxiety, depression and other emotional difficulties.&lt;/p&gt;
+
+&lt;p&gt;Siri has experience with qualitative and quantitative methodologies. For her master dissertation she completed an in-depth contextualist thematic analysis where she interviewed students in a school about their experiences of a novel therapy called the Take Control Course. She also excelled in her Advanced Statistics and Advanced Statistics Workshop modules within her MRes Psychology course, achieving the highest grade (A / 1:1).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

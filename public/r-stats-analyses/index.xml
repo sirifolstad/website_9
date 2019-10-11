@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Stats Analyses | Siri H. Folstad</title>
+    <link>/sirihfolstad/r-stats-analyses/</link>
+      <atom:link href="/sirihfolstad/r-stats-analyses/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Stats Analyses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Siri Hausland Folstad {2019}</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/sirihfolstad/img/icon-192.png</url>
+      <title>R Stats Analyses</title>
+      <link>/sirihfolstad/r-stats-analyses/</link>
+    </image>
+    
+    <item>
+      <title>International Powerlifting</title>
+      <link>/sirihfolstad/r-stats-analyses/r-stats-analyses/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/sirihfolstad/r-stats-analyses/r-stats-analyses/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
